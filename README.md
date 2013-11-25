@@ -1,4 +1,5 @@
-Basic sap.m app using new Component model (> 1.16).
+Basic sap.m app using new Component model (> 1.16)
+==================================================
 
 Code formatting convention: 4 spaces for html and javascript.
 
